@@ -1,0 +1,22 @@
+body{
+  background-color:  #011627;
+  /* color: #FDFFFC; */
+  /* border: 30px solid #2ee891; */
+  border: 20px solid #cbc2cc;
+  border-top: 0px;
+  margin: 0px;
+  /* text-align: center; */
+}
+
+form{
+   color: #FDFFFC;
+}
+
+#id1{
+  color: #FDFFFC;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+  color: red;
+}
